@@ -1,6 +1,6 @@
 # Intro
 ##Lessons
-1. [a Java.HelloWorld](Java.HelloWorld.md)
+1. [a Java.HelloWorld](materials/Java.HelloWorld.md)
 2. 
 
 

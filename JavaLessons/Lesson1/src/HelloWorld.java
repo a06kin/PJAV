@@ -1,6 +1,6 @@
 class HelloWorld{
     public static void main(String[] args) {
-        Integer a = 10; //цельное
+        Integer a = 100; //цел�?ное
 
         /*
         a = 10;
@@ -23,8 +23,8 @@ class HelloWorld{
 
         String s = "213456uikjhbhjghfgdfdb ";
 
-        //=  присваивание
-        //== сравнение
+        //=  при�?ваивание
+        //== �?равнение
 
         if (a == 10){
            a = 148;
@@ -46,6 +46,7 @@ class HelloWorld{
         while(a != 10){
             a = a + 1;
         }
-        
+
+        System.out.println(a + " " + 14);
     }
 }

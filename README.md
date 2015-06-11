@@ -1,7 +1,7 @@
 # Intro
 ##Lessons
-1. [a Java.HelloWorld](materials/Java.HelloWorld.md)
-2. 
+1. [Java.HelloWorld](materials/Java.HelloWorld.md)
+2. [for](materials/for.md)
 
 #####task
 0. км/час -> м/с, м/мин

@@ -11,7 +11,7 @@
 7. четыре числа -> сколько разных.
 34. GIT - https://www.codeschool.com/ - trygit
 2. ax2+bx+c
-123.
+123. https://github.com/jlevy/the-art-of-command-line
 6.
 
 #####qstns
